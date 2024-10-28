@@ -1,8 +1,8 @@
 ﻿---
 Language: Cpp
 DisableFormat: false
-BaseOnStyle: LLVM
-AccessAccessModifierOffset: -2
+BasedOnStyle: LLVM
+AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
@@ -164,8 +164,8 @@ UseTab: Never
 ---
 Language: CSharp
 DisableFormat: false
-BaseOnStyle: LLVM
-AccessAccessModifierOffset: -2
+BasedOnStyle: LLVM
+AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
@@ -327,8 +327,8 @@ UseTab: Never
 ---
 Language: Java
 DisableFormat: false
-BaseOnStyle: LLVM
-AccessAccessModifierOffset: -2
+BasedOnStyle: LLVM
+AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
@@ -490,8 +490,8 @@ UseTab: Never
 ---
 Language: JavaScript
 DisableFormat: false
-BaseOnStyle: LLVM
-AccessAccessModifierOffset: -2
+BasedOnStyle: LLVM
+AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
