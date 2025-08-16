@@ -116,7 +116,7 @@ PackConstructorInitializers: NextLine
 PointerAlignment: Left
 QualifierAlignment: Left
 ReferenceAlignment: Right
-ReflowComments: true
+ReflowComments: false
 RequiresClausePosition: OwnLine
 RequiresExpressionIndentation: Keyword
 SeparateDefinitionBlocks: Always
@@ -279,7 +279,7 @@ PackConstructorInitializers: NextLine
 PointerAlignment: Left
 QualifierAlignment: Left
 ReferenceAlignment: Right
-ReflowComments: true
+ReflowComments: false
 RequiresClausePosition: OwnLine
 RequiresExpressionIndentation: Keyword
 SeparateDefinitionBlocks: Always
@@ -442,7 +442,7 @@ PackConstructorInitializers: NextLine
 PointerAlignment: Left
 QualifierAlignment: Left
 ReferenceAlignment: Right
-ReflowComments: true
+ReflowComments: false
 RequiresClausePosition: OwnLine
 RequiresExpressionIndentation: Keyword
 SeparateDefinitionBlocks: Always
@@ -605,7 +605,7 @@ PackConstructorInitializers: NextLine
 PointerAlignment: Left
 QualifierAlignment: Left
 ReferenceAlignment: Right
-ReflowComments: true
+ReflowComments: false
 RequiresClausePosition: OwnLine
 RequiresExpressionIndentation: Keyword
 SeparateDefinitionBlocks: Always
@@ -650,3 +650,4 @@ SpacesInSquareBrackets: false
 Standard: Auto
 TabWidth: 2
 UseTab: Never
+
